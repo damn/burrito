@@ -1,6 +1,10 @@
-# wrapper
+# Burrito
 
-A Clojure library designed to ... well, that part is up to you.
+> a Mexican dish consisting of a tortilla rolled round a savoury filling, typically of minced beef or beans.
+
+See [tortilla](https://github.com/emlyn/tortilla#introduction).
+
+Create java library wrappers automatically.
 
 ## Usage
 
